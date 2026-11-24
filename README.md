@@ -2,9 +2,22 @@
 
 **A practical, no-code programme for companies using ChatGPT, Copilot or other AI assistants.** Use it to find out who is using what, make someone accountable for client work, put five critical processes in order and give IT an actionable access list.
 
-**[Start with the sponsor and six-step plan](guide/01-start-here.md)** · **[Use the staff discovery questions](guide/02-discover-actual-use.md)**
+**[Download the editable starter kit](https://github.com/edcadet10/ai-governance-field-guide/raw/refs/heads/main/downloads/AI-Governance-Starter-Kit.zip)** · **[Read the six-step plan online](guide/01-start-here.md)**
 
 A professional-services firm of about 70 people is the worked setting. Every example is fictional. Staff and advisers can do the review with ordinary documents and a spreadsheet. IT retains responsibility for system changes.
+
+## Open the kit
+
+Download and unzip the kit into a company-approved private folder. Open **01 Start here** in Word or a compatible editor. The first page gives the sponsor a 30-minute kickoff agenda. If you prefer to read online, the links below take you through the same decisions. You can download the six files individually in the [kit folder](kit).
+
+| File | Who uses it | What to do first |
+| --- | --- | --- |
+| 01 Start here | Sponsor | Pick one upcoming client decision and assign owners. |
+| 02 Staff survey | Review lead | Adapt the privacy notice. Send the response form through the normal internal channel. |
+| 03 AI use policy | Managing partner or policy owner | Fill in the approved accounts and appoint the people who can release client work. |
+| 04 Five procedures | Process owners | Replace the examples with real steps, resolve conflicting instructions and test each procedure. |
+| 05 Working registers | Review lead and IT lead | Open the **Start here** tab. Enter working records in private. Filter out fictional examples before reporting. |
+| 06 Client assurance | Engagement partner | Answer the exact assurance question using dated evidence and disclose any gaps. |
 
 ## How to use this guide
 
@@ -20,3 +33,5 @@ Any organisation may copy, adapt and use these original templates internally. Ke
 | Give findings to the IT lead | [Folder handoff, priorities and acceptance tests](guide/05-folder-handoff.md) |
 | Answer a client or insurer | [Evidence pack and response template](guide/06-client-assurance.md) |
 | Rehearse before using real records | [Twenty-minute practice case and worked answers](guide/07-practice-case.md) |
+
+Prepared by [Jeff Cadet](https://github.com/edcadet10). The worked example pairs AI-assisted client reporting with the source ownership, access checks and human release decisions that make the report usable.
