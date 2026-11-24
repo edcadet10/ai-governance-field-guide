@@ -47,7 +47,7 @@ These are fictional, unsigned drafts. Select the five processes that matter in y
 
 1. HR verifies the event and opens a restricted IT request. The manager identifies work duties, data groups, start/end times and any deputy requirement. Record who authorised the request.
 2. The information owner approves the minimum required access and any time-limited exception. For a move, identify access to remove as well as access to add. Missing approvals leave the request pending.
-3. Only the IT lead or their company-authorised delegate implements approved changes through the firm's standard process. Preserve required business records and follow the company's leaver timetable. Escalate a missed removal immediately.
+3. The IT lead implements approved changes through the firm's standard process. Preserve required business records and follow the company's leaver timetable. Escalate a missed removal immediately.
 4. IT records completion and role-based tests. The manager confirms the intended work can proceed and IT checks the former role can no longer reach the restricted material. The owner closes the request after both results, or records an exception and due date.
 
 **Resolve a conflict between copies:** An old starter list grants the entire shared drive. The information owner compares this with the current role matrix and signs the intended minimum. **Walkthrough:** A joiner receives an authorised group. A mover retains the new role and loses old client access on schedule.
